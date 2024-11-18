@@ -1,16 +1,10 @@
-# aplikasi_monitoring_kehadiran_siswa
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. ![Alt text](<Screenshot (1688).png>)
+ini adalah tampilan awal dari absensi
+2. ![Alt text](<Screenshot (1689).png>)
+ini adalah tampilan setelah saya mengisi data absensi
+3. ![Alt text](<Screenshot (1690).png>)
+ini adalah tampilan setelah saya mengisi data absensi dan mengklik tombol submit
+4. ![Alt text](<Screenshot (1691).png>)
+ini adalah tampilan history setelah saya mengisi data absensi
+5. ![Alt text](<Screenshot (1692).png>)
+ini adalah tampilan ketika web di refresh maka riwayat akan hilang dan tampil text

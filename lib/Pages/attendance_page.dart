@@ -25,7 +25,8 @@
         bottomNavigationBar: BottomAppBar(
           child: ElevatedButton(
             onPressed: provider.students.isEmpty ? null : provider.saveAttendance,
-            child: Text('Simpan Kehadiran'),
+            child: Text('Simpan Kehadiran', style: TextStyle(fontSize: 20),),
+            
           ),
         ),
       );
